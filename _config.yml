@@ -1,4 +1,5 @@
 title: MathJax Demo Site
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
+
 
